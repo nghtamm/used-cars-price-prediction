@@ -12,7 +12,7 @@ Bài tập lớn: Khai phá và phân tích dữ liệu (Học kì 1 - Năm 3 - 
 - [Used Cars Price Prediction (Kaggle)](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction/data)
 
 **Nhóm tác giả**
-- [Nguyễn Hoàng Tâm](https://github.com/nghtamm2003)
+- [Nguyễn Hoàng Tâm](https://github.com/nghtamm)
 - [Nguyễn Huy Phước](https://github.com/DurkYerunz)
 	
 ## Techstack
